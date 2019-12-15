@@ -1,4 +1,4 @@
 # code the #greeting method here!
 def greeting(name)
-  puts "Hi, #{name} Welcome to ruby programming."
+  puts "Hello #{name}. It's nice to meet you."
 end
